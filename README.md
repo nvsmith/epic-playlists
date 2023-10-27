@@ -40,14 +40,14 @@ This is a JavaScript webpage project that implements:
 
 The script allows you to populate playlists of songs to the webpage (from array data), automatically numbered with customized styles in place. It looks simple because all the heavy lifting, which is very scalable, is done behind the scenes.
 
-<div style="text-align:center;">
+<div align="center">
 
 ![screenshot1](screenshots/screenshot1.png "before")
 ![screenshot2](screenshots/screenshot2.png "after")
 
 </div>
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -55,7 +55,7 @@ The script allows you to populate playlists of songs to the webpage (from array 
 -   CSS
 -   JavaScript
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -71,7 +71,7 @@ All you need is a browser (to view/interact) and a text editor (to modify).
 
 1. Clone this repo and you're all set!
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -81,7 +81,7 @@ All you need is a browser (to view/interact) and a text editor (to modify).
 -   `styles.css`: design and aesthetics.
 -   `script.js`: functionality.
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -89,7 +89,7 @@ All you need is a browser (to view/interact) and a text editor (to modify).
 
 There are no plans to implement additional features at this time.
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -97,7 +97,7 @@ There are no plans to implement additional features at this time.
 
 This project is for learning/demonstration and is not being actively developed.
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -105,7 +105,7 @@ This project is for learning/demonstration and is not being actively developed.
 
 Distributed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -113,7 +113,7 @@ Distributed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 Nate: [GitHub](https://github.com/nvsmith) | [Grepper](https://www.grepper.com/profile/intra)
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -130,4 +130,4 @@ Nate: [GitHub](https://github.com/nvsmith) | [Grepper](https://www.grepper.com/p
 
 -   [Best-README-Template](https://github.com/othneildrew/Best-README-Template/tree/master)
 
-<p style="text-align:right;">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
